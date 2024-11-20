@@ -1,4 +1,4 @@
-# 👋 "Hello Word", eu sou Everton Victor!
+# 👋 "Hello Word" Eu sou Everton Victor!
 
 💻 Programador Front-End | Estudante de Desenvolvimento Web  
 🚀 Sempre buscando aprender e evoluir no mundo da programação!  
