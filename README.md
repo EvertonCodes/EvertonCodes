@@ -64,7 +64,7 @@ Quando não estou codificando, gosto de **explorar novos frameworks**, **aprende
 
 ### 📂 Meus Repositórios:
 
-🌟 [Projetos Incríveis](https://github.com/seu-usuario-github)  
+🌟 [Projetos Incríveis](https://github.com/EvertonCodes?tab=repositories) 
 Confira meus repositórios mais interessantes e contribuições de código!
 
 ---
