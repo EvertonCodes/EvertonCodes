@@ -10,7 +10,6 @@ Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**
 ## 🛠️ Tecnologias e Ferramentas que Uso:
 
 - **Front-End:**
-  - React ⚛️
   - JavaScript ES6+ ✨
   - HTML5 📝
   - CSS3 💅
@@ -35,7 +34,7 @@ Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**
 
 - **React** e **Redux** para criar aplicações ainda mais dinâmicas e escaláveis.
 - **PHP** e **SaaS** para desenvolver soluções de software como serviço.
-- **Bootstrap** e **Tailwind CSS** para melhorar o design responsivo das minhas páginas.
+- **Tailwind CSS** para melhorar o design responsivo das minhas páginas.
 - **MySQL** Trabalhando com bancos de dados relacionais para criação de aplicações robustas.
   
 ---
