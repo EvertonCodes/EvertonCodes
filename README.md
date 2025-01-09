@@ -80,3 +80,11 @@ Confira meus repositórios mais interessantes e contribuições de código!
   <img src="https://media.giphy.com/media/2Yl6hFf01Fjs/200w.gif" alt="giphy" width="250" />
   <p><strong>Desenvolvendo, aprendendo e crescendo constantemente! 🚀</strong></p>
 </div>
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvertonCodes/EvertonCodes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvertonCodes/EvertonCodes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvertonCodes/EvertonCodes/output/github-contribution-grid-snake.svg">
+</picture>
