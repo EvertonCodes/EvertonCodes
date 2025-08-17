@@ -18,7 +18,7 @@ Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**
 - **Back-End (em estudo):**
   - **PHP** 🖥️
   - **MySQL** 🗄️
-  - **MVC** 🔥
+  - **Java** 🔥
   - **APIs** 🌐
 
 - **Ferramentas de Design:**
