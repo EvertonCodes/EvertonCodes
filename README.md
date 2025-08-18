@@ -49,8 +49,13 @@ Quando não estou codificando, gosto de **explorar novos frameworks**, **aprende
 
 ## 📈 Stats do GitHub:
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EvertonCodes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=EvertonCodes&show_icons=true&count_private=true&theme=default&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvertonCodes&theme=tokyonight" 
+      alt="Resumo do Perfil GitHub" 
+      style="margin: 10px;" 
+    />
+  </div>
 
 ---
 
