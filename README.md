@@ -62,7 +62,7 @@ Quando não estou codificando, gosto de **explorar novos frameworks**, **aprende
 ## 🤝 Vamos Conectar!
 
 - **LinkedIn**: [@EvertonCodes](https://www.linkedin.com/in/evertoncodes)
-- **Instagram**: [@Everton Victor](https://www.instagram.com/evertoncodess/)
+- **Instagram**: [@Everton Victor](https://www.instagram.com/https_evertonpe/)
 
 ---
 
