@@ -1,6 +1,6 @@
 # 👋 "Hello Word" Eu sou Everton Victor!
 
-💻 Programador Front-End | Estudante de Desenvolvimento Web  
+💻 Programador Full Stack | Estudante de Desenvolvimento Web  
 🚀 Sempre buscando aprender e evoluir no mundo da programação!  
 
 Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**, **PHP**, **Bootstrap** e **SaaS**. Meu foco é criar experiências web incríveis e eficientes. 🚀
