@@ -66,9 +66,9 @@ Quando não estou codificando, gosto de **explorar novos frameworks**, **aprende
 
 ---
 
-### 📂 Meus Repositórios:
+### 📂 Meu Portfólio:
 
-🌟 [Projetos Incríveis](https://github.com/EvertonCodes?tab=repositories) 
+🌟 [Projetos Incríveis](https://evertonvictor-portfolio.vercel.app/) 
 Confira meus repositórios mais interessantes e contribuições de código!
 
 ---
