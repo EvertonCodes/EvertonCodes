@@ -13,11 +13,13 @@ Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**
   - JavaScript ES6+ ✨
   - HTML5 📝
   - CSS3 💅
+  - React ⚛️
   - Bootstrap 📱
 
 - **Back-End (em estudo):**
   - **PHP** 🖥️
   - **MySQL** 🗄️
+  - **Node.js** 🚀
   - **Java** 🔥
   - **APIs** 🌐
 
