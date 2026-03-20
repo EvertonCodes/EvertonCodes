@@ -3,7 +3,7 @@
 💻 Programador Full Stack | Estudante de Desenvolvimento Web  
 🚀 Sempre buscando aprender e evoluir no mundo da programação!  
 
-Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**, **PHP**, **Bootstrap** e **Java**. Meu foco é criar experiências web incríveis e eficientes. 🚀
+Atualmente, estou me aprofundando nas tecnologias que mais gosto, como **React**, **PHP**, **Bootstrap**, **Node.js** e **Java**. Meu foco é criar experiências web incríveis e eficientes. 🚀
 
 ---
 
