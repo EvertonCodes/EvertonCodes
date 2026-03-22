@@ -92,6 +92,6 @@ Confira meus repositórios mais interessantes e contribuições de código!
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2Yl6hFf01Fjs/200w.gif" alt="giphy" width="250" />
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="giphy" width="250" />
   <p><strong>Desenvolvendo, aprendendo e crescendo constantemente! 🚀</strong></p>
 </div>
